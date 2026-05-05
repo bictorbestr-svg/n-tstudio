@@ -23,7 +23,6 @@ export function Footer() {
               </p>
               <ul className="mt-4 space-y-3 text-[14px] text-foreground">
                 <li><a href="#tjanster" className="hover:text-accent">Tjänster</a></li>
-                <li><a href="#case" className="hover:text-accent">Case</a></li>
                 <li><a href="#om-oss" className="hover:text-accent">Om oss</a></li>
                 <li><a href="#kontakt" className="hover:text-accent">Kontakt</a></li>
               </ul>

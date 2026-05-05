@@ -4,7 +4,6 @@ import { MagneticButton } from "./MagneticButton";
 
 const links = [
   { label: "Tjänster", href: "#tjanster" },
-  { label: "Case", href: "#case" },
   { label: "Om oss", href: "#om-oss" },
   { label: "Kontakt", href: "#kontakt" },
 ];
