@@ -25,7 +25,7 @@ export const Route = createFileRoute("/")({
       {
         property: "og:description",
         content:
-          "Premium webbyrå från Stockholm. Webbdesign, utveckling, e-handel och brand — för varumärken som vill mer.",
+          "Premium svensk webbyrå. Webbdesign, utveckling, e-handel och brand — för varumärken som vill mer.",
       },
     ],
   }),
