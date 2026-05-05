@@ -16,8 +16,8 @@ export function About() {
 
         <div className="space-y-8 lg:col-span-7">
           <p className="reveal text-balance text-xl leading-relaxed text-foreground sm:text-2xl" data-delay="100">
-            NS är en svensk studio på sex personer som bygger digitala upplevelser
-            för varumärken som vill mer. Vi tror att internet förtjänar bättre —
+            NS är en svensk studio som bygger digitala upplevelser för
+            varumärken som vill mer. Vi tror att internet förtjänar bättre —
             snabbare, vackrare, mänskligare.
           </p>
           <p className="reveal text-[17px] leading-relaxed text-muted-foreground" data-delay="200">
@@ -28,9 +28,7 @@ export function About() {
 
           <div className="reveal grid grid-cols-2 gap-px overflow-hidden rounded-2xl border border-border bg-border" data-delay="300">
             {[
-              { k: "Grundades", v: "2019" },
-              { k: "Bas", v: "Stockholm" },
-              { k: "Team", v: "6 personer" },
+              { k: "Bas", v: "Sverige" },
               { k: "Språk", v: "SV / EN" },
             ].map((it) => (
               <div key={it.k} className="bg-card p-5">
