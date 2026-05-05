@@ -5,11 +5,9 @@ import { Navbar } from "@/components/Navbar";
 import { Hero } from "@/components/sections/Hero";
 import { Marquee } from "@/components/sections/Marquee";
 import { Services } from "@/components/sections/Services";
-import { Stats } from "@/components/sections/Stats";
 import { Cases } from "@/components/sections/Cases";
 import { Process } from "@/components/sections/Process";
 import { About } from "@/components/sections/About";
-import { Testimonials } from "@/components/sections/Testimonials";
 import { Contact } from "@/components/sections/Contact";
 import { Footer } from "@/components/sections/Footer";
 import { useReveal } from "@/hooks/useReveal";
@@ -62,11 +60,9 @@ function Index() {
       <Hero />
       <Marquee />
       <Services />
-      <Stats />
       <Cases />
       <Process />
       <About />
-      <Testimonials />
       <Contact />
       <Footer />
     </main>
