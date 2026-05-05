@@ -53,10 +53,10 @@ export function Hero() {
           </MagneticButton>
 
           <a
-            href="#case"
+            href="#tjanster"
             className="group inline-flex items-center gap-2 rounded-full border border-border px-7 py-4 font-grotesk text-[14px] font-medium text-foreground transition-colors hover:border-primary/50 hover:bg-surface"
           >
-            Se våra case
+            Våra tjänster
             <span className="transition-transform group-hover:translate-x-1">↗</span>
           </a>
         </div>
