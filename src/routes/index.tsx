@@ -5,7 +5,7 @@ import { Navbar } from "@/components/Navbar";
 import { Hero } from "@/components/sections/Hero";
 import { Marquee } from "@/components/sections/Marquee";
 import { Services } from "@/components/sections/Services";
-import { Cases } from "@/components/sections/Cases";
+
 import { Process } from "@/components/sections/Process";
 import { About } from "@/components/sections/About";
 import { Contact } from "@/components/sections/Contact";
@@ -60,7 +60,7 @@ function Index() {
       <Hero />
       <Marquee />
       <Services />
-      <Cases />
+      
       <Process />
       <About />
       <Contact />
